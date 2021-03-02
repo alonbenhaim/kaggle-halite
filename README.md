@@ -1,4 +1,5 @@
 # Kaggle Halite Competition
+
 The competition can be found here: https://www.kaggle.com/c/halite/overview
 
 The most up to date environment code can be found here: https://github.com/Kaggle/kaggle-environments/tree/master/kaggle_environments/envs/halite
@@ -13,7 +14,7 @@ Competition rules: https://www.kaggle.com/c/halite/overview/halite-rules
 
 # Notes:
 
-On this git, you can find the code used to achieve a rank of top 350 in season 4 of the Kaggle Halite competition
+On this git, you can find the code used to submit a hybrid deep learning/hard coded agent based on a Deep Q Network using PyTorch that achieved a rank of top 350 in season 4 of the Kaggle Halite competition
 
 # Game Preview
 Board:
