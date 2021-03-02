@@ -16,5 +16,7 @@ Competition rules: https://www.kaggle.com/c/halite/overview/halite-rules
 On this git, you can find the code used to achieve a rank of top 350 in season 4 of the Kaggle Halite competition
 
 # Game Preview
-
+Board:
 ![halite preview](/halite_preview.png)
+Gameplay:
+![halite gameplay](/halite_gif.gif)
