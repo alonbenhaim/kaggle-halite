@@ -17,6 +17,8 @@ On this git, you can find the code used to achieve a rank of top 350 in season 4
 
 # Game Preview
 Board:
+
 ![halite preview](/halite_preview.png)
 Gameplay:
+
 ![halite gameplay](/halite_gif.gif)
